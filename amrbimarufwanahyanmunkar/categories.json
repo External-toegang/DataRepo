@@ -1,0 +1,71 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "title": "Aqeedah",
+        "order": 1,
+        "subcategories": [
+          {
+            "id": "1-1",
+            "title": "Waar is Allaah",
+            "order": 1
+          },
+          {
+            "id": "1-2",
+            "title": "Bewijs van Allaah",
+            "order": 2
+          },
+          {
+            "id": "1-3",
+            "title": "Allaah heeft Hoedanigheid",
+            "order": 3
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Zusters",
+        "order": 2,
+        "subcategories": [
+          {
+            "id": "2-1",
+            "title": "Parfum verbod",
+            "order": 1
+          },
+          {
+            "id": "2-2",
+            "title": "Niqaab verplichting",
+            "order": 2
+          },
+          {
+            "id": "2-3",
+            "title": "Hoofddoek bewijzen",
+            "order": 3
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Haram",
+        "order": 3,
+        "subcategories": [
+          {
+            "id": "3-1",
+            "title": "Alcohol verkopen",
+            "order": 1
+          },
+          {
+            "id": "3-2",
+            "title": "LGBT",
+            "order": 2
+          },
+          {
+            "id": "3-3",
+            "title": "Muziekinstrumenten",
+            "order": 3
+          }
+        ]
+      }
+    ]
+  }
+  
