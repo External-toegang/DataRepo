@@ -1,35 +1,36 @@
 {
-    "items": [
-      {
-        "id": "item1",
-        "categoryId": "1-1",
-        "arabicText": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ",
-        "imageUrls": ["https://example.com/image1.jpg"],
-        "audioUrls": ["https://example.com/audio1.mp3"],
-        "translation": {
-          "nl": "Voorwaar, uw Heer is Allah die de hemelen en de aarde heeft geschapen.",
-          "en": "Indeed, your Lord is Allah who created the heavens and the earth.",
-          "tr": "Şüphesiz, Rabbiniz gökleri ve yeri yaratan Allah'tır.",
-          "pl": "Zaprawdę, wasz Pan to Allah, który stworzył niebiosa i ziemię."
-        },
-        "links": ["https://example.com/link1"],
-        "commentary": "This Ayah emphasizes the creation of the universe by Allah."
+  "items": [
+    {
+      "id": "item1",
+      "categoryId": "1-1",
+      "arabicText": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ",
+      "imageUrls": ["https://moslimantwoord.nl/wp-content/uploads/2022/10/nacht_en_dag_moslimantwoordnl.png"],
+      "audioUrls": ["https://everyayah.com/data/Alafasy_128kbps/010003.mp3"],
+      "translation": {
+        "nl": "Voorwaar, uw Heer is Allah die de hemelen en de aarde heeft geschapen.",
+        "en": "Indeed, your Lord is Allah who created the heavens and the earth.",
+        "tr": "Şüphesiz, Rabbiniz gökleri ve yeri yaratan Allah'tır.",
+        "pl": "Zaprawdę, wasz Pan to Allah, który stworzył niebiosa i ziemię."
       },
-      {
-        "id": "item2",
-        "categoryId": "3-1",
-        "arabicText": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ",
-        "imageUrls": ["https://example.com/image2.jpg"],
-        "audioUrls": ["https://example.com/audio2.mp3"],
-        "translation": {
-          "nl": "Verboden voor u is dood vlees, bloed en varkensvlees.",
-          "en": "Forbidden to you is dead meat, blood, and pork.",
-          "tr": "Ölü eti, kan ve domuz eti size haram kılınmıştır.",
-          "pl": "Zakazane dla was jest mięso martwego, krew i wieprzowina."
-        },
-        "links": ["https://example.com/link2"],
-        "commentary": "This Ayah prohibits the consumption of certain items."
-      }
-    ]
-  }
-  
+      "links": ["https://example.com/link1"],
+      "reference": "Surah Al-A'raf, 7:54", 
+      "commentary": "This Ayah emphasizes the creation of the universe by Allah."
+    },
+    {
+      "id": "item2",
+      "categoryId": "3-1",
+      "arabicText": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ",
+      "imageUrls": ["https://moslimantwoord.nl/wp-content/uploads/2022/10/nacht_en_dag_moslimantwoordnl.png"],
+      "audioUrls": ["https://everyayah.com/data/Alafasy_128kbps/010003.mp3"],
+      "translation": {
+        "nl": "Verboden voor u is dood vlees, bloed en varkensvlees.",
+        "en": "Forbidden to you is dead meat, blood, and pork.",
+        "tr": "Ölü eti, kan ve domuz eti size haram kılınmıştır.",
+        "pl": "Zakazane dla was jest mięso martwego, krew i wieprzowina."
+      },
+      "links": ["https://example.com/link2"],
+      "reference": "Surah Todo", 
+      "commentary": "This Ayah prohibits the consumption of certain items."
+    }
+  ]
+}
